@@ -1,0 +1,50 @@
+{
+    "version":  1,
+    "lastUpdated":  "2026-01-22",
+    "wallpapers":  [
+                       {
+                           "id":  "_3d874512-1619-4669-9c6d-fe6845dec797",
+                           "title":  "",
+                           "description":  "",
+                           "categories":  [
+                                              "angel"
+                                          ],
+                           "previewUrl":  "https://raw.githubusercontent.com/markie1611/niche-wallpapers-data/main/images/Angel/thumbs/_3d874512-1619-4669-9c6d-fe6845dec797_thumb.png",
+                           "fullUrl":  "https://raw.githubusercontent.com/markie1611/niche-wallpapers-data/main/images/Angel/_3d874512-1619-4669-9c6d-fe6845dec797.png",
+                           "premium":  false
+                       },
+                       {
+                           "id":  "_1c79c3fd-cb0e-4ae7-818f-9de029a318ea",
+                           "title":  "",
+                           "description":  "",
+                           "categories":  [
+                                              "cross"
+                                          ],
+                           "previewUrl":  "https://raw.githubusercontent.com/markie1611/niche-wallpapers-data/main/images/Cross/thumbs/_1c79c3fd-cb0e-4ae7-818f-9de029a318ea_thumb.png",
+                           "fullUrl":  "https://raw.githubusercontent.com/markie1611/niche-wallpapers-data/main/images/Cross/_1c79c3fd-cb0e-4ae7-818f-9de029a318ea.png",
+                           "premium":  false
+                       },
+                       {
+                           "id":  "_31bd6100-2ced-440c-ba64-baad8fe4b2ee",
+                           "title":  "",
+                           "description":  "",
+                           "categories":  [
+                                              "cross"
+                                          ],
+                           "previewUrl":  "https://raw.githubusercontent.com/markie1611/niche-wallpapers-data/main/images/Cross/thumbs/_31bd6100-2ced-440c-ba64-baad8fe4b2ee_thumb.png",
+                           "fullUrl":  "https://raw.githubusercontent.com/markie1611/niche-wallpapers-data/main/images/Cross/_31bd6100-2ced-440c-ba64-baad8fe4b2ee.png",
+                           "premium":  false
+                       },
+                       {
+                           "id":  "_38a715bf-c194-4bd3-af4a-8cd72a89bec3",
+                           "title":  "",
+                           "description":  "",
+                           "categories":  [
+                                              "star"
+                                          ],
+                           "previewUrl":  "https://raw.githubusercontent.com/markie1611/niche-wallpapers-data/main/images/Star/thumbs/_38a715bf-c194-4bd3-af4a-8cd72a89bec3_thumb.png",
+                           "fullUrl":  "https://raw.githubusercontent.com/markie1611/niche-wallpapers-data/main/images/Star/premium/_38a715bf-c194-4bd3-af4a-8cd72a89bec3.png",
+                           "premium":  true
+                       }
+                   ]
+}
