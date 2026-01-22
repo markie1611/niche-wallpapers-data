@@ -14,6 +14,28 @@
                            "premium":  false
                        },
                        {
+                           "id":  "_a7205d66-7a8f-41d1-9d92-b9a4b3124282",
+                           "title":  "",
+                           "description":  "",
+                           "categories":  [
+                                              "angel"
+                                          ],
+                           "previewUrl":  "https://raw.githubusercontent.com/markie1611/niche-wallpapers-data/main/images/Angel/thumbs/_a7205d66-7a8f-41d1-9d92-b9a4b3124282_thumb.png",
+                           "fullUrl":  "https://raw.githubusercontent.com/markie1611/niche-wallpapers-data/main/images/Angel/_a7205d66-7a8f-41d1-9d92-b9a4b3124282.png",
+                           "premium":  false
+                       },
+                       {
+                           "id":  "_b7bc1e14-f914-433c-b121-26f9047b2598",
+                           "title":  "",
+                           "description":  "",
+                           "categories":  [
+                                              "bible"
+                                          ],
+                           "previewUrl":  "https://raw.githubusercontent.com/markie1611/niche-wallpapers-data/main/images/Bible/thumbs/_b7bc1e14-f914-433c-b121-26f9047b2598_thumb.png",
+                           "fullUrl":  "https://raw.githubusercontent.com/markie1611/niche-wallpapers-data/main/images/Bible/_b7bc1e14-f914-433c-b121-26f9047b2598.png",
+                           "premium":  false
+                       },
+                       {
                            "id":  "_1c79c3fd-cb0e-4ae7-818f-9de029a318ea",
                            "title":  "",
                            "description":  "",
@@ -34,6 +56,29 @@
                            "previewUrl":  "https://raw.githubusercontent.com/markie1611/niche-wallpapers-data/main/images/Cross/thumbs/_31bd6100-2ced-440c-ba64-baad8fe4b2ee_thumb.png",
                            "fullUrl":  "https://raw.githubusercontent.com/markie1611/niche-wallpapers-data/main/images/Cross/_31bd6100-2ced-440c-ba64-baad8fe4b2ee.png",
                            "premium":  false
+                       },
+                       {
+                           "id":  "_423dfcb2-73ac-493f-b2c9-dcb6d34213f4",
+                           "title":  "",
+                           "description":  "",
+                           "categories":  [
+                                              "cross"
+                                          ],
+                           "previewUrl":  "https://raw.githubusercontent.com/markie1611/niche-wallpapers-data/main/images/Cross/thumbs/_423dfcb2-73ac-493f-b2c9-dcb6d34213f4_thumb.png",
+                           "fullUrl":  "https://raw.githubusercontent.com/markie1611/niche-wallpapers-data/main/images/Cross/premium/_423dfcb2-73ac-493f-b2c9-dcb6d34213f4.png",
+                           "premium":  true
+                       },
+                       {
+                           "id":  "_e2230651-ec01-41c9-a520-f542db927524",
+                           "title":  "",
+                           "description":  "",
+                           "categories":  [
+                                              "jesus",
+                                              "shepherd"
+                                          ],
+                           "previewUrl":  "https://raw.githubusercontent.com/markie1611/niche-wallpapers-data/main/images/Jesus/thumbs/_e2230651-ec01-41c9-a520-f542db927524_thumb.png",
+                           "fullUrl":  "https://raw.githubusercontent.com/markie1611/niche-wallpapers-data/main/images/Jesus/premium/_e2230651-ec01-41c9-a520-f542db927524.png",
+                           "premium":  true
                        },
                        {
                            "id":  "_38a715bf-c194-4bd3-af4a-8cd72a89bec3",
