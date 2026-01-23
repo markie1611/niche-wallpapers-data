@@ -14,7 +14,7 @@
   "apps": [
     {
       "id": "rock_lyrics",
-      "name": "Rock Lyrics Vault",
+      "name": "Rock Radio",
       "packageName": "com.example.lyrics.rock",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.example.lyrics.rock",
       "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/library_music/materialicons/48dp/1x/baseline_library_music_black_48dp.png",
@@ -22,7 +22,7 @@
     },
     {
       "id": "pop_lyrics",
-      "name": "Pop Lyrics Hub",
+      "name": "Pop Radio",
       "packageName": "com.example.lyrics.pop",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.example.lyrics.pop",
       "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/music_note/materialicons/48dp/1x/baseline_music_note_black_48dp.png",
@@ -30,11 +30,35 @@
     },
     {
       "id": "jazz_lyrics",
-      "name": "Smooth Jazz Lyrics",
+      "name": "Smooth Radio",
       "packageName": "com.example.lyrics.jazz",
       "playStoreUrl": "",
       "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/queue_music/materialicons/48dp/1x/baseline_queue_music_black_48dp.png",
-      "enabled": false
+      "enabled": true
+    }.
+        {
+      "id": "00s_lyrics",
+      "name": "00s Radio",
+      "packageName": "com.example.lyrics.rock",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.example.lyrics.rock",
+      "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/library_music/materialicons/48dp/1x/baseline_library_music_black_48dp.png",
+      "enabled": true
+    },
+    {
+      "id": "90s_lyrics",
+      "name": "90s Radio",
+      "packageName": "com.example.lyrics.pop",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.example.lyrics.pop",
+      "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/music_note/materialicons/48dp/1x/baseline_music_note_black_48dp.png",
+      "enabled": true
+    },
+    {
+      "id": "80s_lyrics",
+      "name": "80s Radio",
+      "packageName": "com.example.lyrics.jazz",
+      "playStoreUrl": "",
+      "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/queue_music/materialicons/48dp/1x/baseline_queue_music_black_48dp.png",
+      "enabled": true
     }
   ]
 }
