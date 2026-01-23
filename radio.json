@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-01-23",
+
+  "premiumApp": {
+    "id": "lyrics_premium_all",
+    "name": "Ultimate Lyrics Collection (Premium)",
+    "packageName": "com.example.lyrics.premium",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.example.lyrics.premium",
+    "iconUrl": "https://raw.githubusercontent.com/example/app-list/main/icons/premium.png",
+    "enabled": true
+  },
+
+  "apps": [
+    {
+      "id": "rock_lyrics",
+      "name": "Rock Lyrics Vault",
+      "packageName": "com.example.lyrics.rock",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.example.lyrics.rock",
+      "iconUrl": "https://raw.githubusercontent.com/example/app-list/main/icons/rock.png",
+      "enabled": true
+    },
+    {
+      "id": "pop_lyrics",
+      "name": "Pop Lyrics Hub",
+      "packageName": "com.example.lyrics.pop",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.example.lyrics.pop",
+      "iconUrl": "https://raw.githubusercontent.com/example/app-list/main/icons/pop.png",
+      "enabled": true
+    },
+    {
+      "id": "jazz_lyrics",
+      "name": "Smooth Jazz Lyrics",
+      "packageName": "com.example.lyrics.jazz",
+      "playStoreUrl": "",
+      "iconUrl": "https://raw.githubusercontent.com/example/app-list/main/icons/jazz.png",
+      "enabled": false
+    },
+    {
+      "id": "metal_lyrics",
+      "name": "Heavy Metal Lyrics",
+      "packageName": "com.example.lyrics.metal",
+      "playStoreUrl": "",
+      "iconUrl": "https://raw.githubusercontent.com/example/app-list/main/icons/metal.png",
+      "enabled": false
+    }
+  ]
+}
