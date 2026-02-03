@@ -8,7 +8,7 @@
     "packageName": "com.example.lyrics.premium",
     "playStoreUrl": "https://play.google.com/store/apps/details?id=com.example.lyrics.premium",
     "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/action/star/materialicons/48dp/1x/baseline_star_black_48dp.png",
-    "enabled": true
+    "enabled": false
   },
 
   "apps": [
@@ -21,8 +21,8 @@
       "enabled": true
     },
     {
-      "id": "pop_lyrics",
-      "name": "Pop Radio",
+      "id": "bible_quiz",
+      "name": "Bible Quiz",
       "packageName": "com.example.lyrics.pop",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.example.lyrics.pop",
       "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/music_note/materialicons/48dp/1x/baseline_music_note_black_48dp.png",
@@ -34,31 +34,7 @@
       "packageName": "com.example.lyrics.jazz",
       "playStoreUrl": "",
       "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/queue_music/materialicons/48dp/1x/baseline_queue_music_black_48dp.png",
-      "enabled": true
-    },
-        {
-      "id": "00s_lyrics",
-      "name": "00s Radio",
-      "packageName": "com.example.lyrics.rock",
-      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.example.lyrics.rock",
-      "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/library_music/materialicons/48dp/1x/baseline_library_music_black_48dp.png",
-      "enabled": true
-    },
-    {
-      "id": "90s_lyrics",
-      "name": "90s Radio",
-      "packageName": "com.example.lyrics.pop",
-      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.example.lyrics.pop",
-      "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/music_note/materialicons/48dp/1x/baseline_music_note_black_48dp.png",
-      "enabled": true
-    },
-    {
-      "id": "80s_lyrics",
-      "name": "80s Radio",
-      "packageName": "com.example.lyrics.jazz",
-      "playStoreUrl": "",
-      "iconUrl": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/queue_music/materialicons/48dp/1x/baseline_queue_music_black_48dp.png",
-      "enabled": true
+      "enabled": false
     }
   ]
 }
